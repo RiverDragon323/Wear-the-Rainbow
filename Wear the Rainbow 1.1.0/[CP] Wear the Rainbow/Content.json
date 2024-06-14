@@ -794,12 +794,12 @@
     	},
    	{
         "Action": "Load",
-        "Target": "Mods/Riverdragon323.WeartheRainbow",
+        "Target": "Mods/Riverdragon323.WeartheRainbowColor",
         "FromFile": "Assets/Color.png"
     	},
     	{
         "Action": "Load",
-        "Target": "Mods/Riverdragon323.WeartheRainbow",
+        "Target": "Mods/Riverdragon323.WeartheRainbowTexture",
         "FromFile": "Assets/PrismaticBoots.png"
     	}
     ]
